@@ -1,0 +1,60 @@
+.input {
+    border: none;
+    border-bottom: 1px solid #FF9494;
+  }
+
+ 
+
+  input.middle:focus {
+    outline-width: 0;
+    border: none;
+}
+
+.insta {
+    text-decoration: none;
+}
+
+  .container {
+    text-align: center;
+    padding: 1%;
+  }
+
+  *:focus {
+    outline: none;
+}
+  
+  .button {
+    
+    border-width: 2px;
+    border-radius: 3px;
+    border-color: #FF9494;
+    background-color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  * {
+    color: #FF9494;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    width: auto;
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+  input, select, textarea {
+    color: black;
+    font-size: 20px;
+    }
+
+    h1 {
+        font-size: 44px;
+    }
+  
+    h3 {
+        color: grey;
+    }
